@@ -4,12 +4,14 @@
   "description": "Assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "1-input.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "json": "^11.0.0",
+    "server": "^1.0.38"
   }
 }
